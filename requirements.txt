@@ -1,0 +1,12 @@
+osmnx>=1.9.0
+networkx>=3.2.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+requests>=2.31.0
+pandas>=2.2.0
+scipy>=1.12.0
+tqdm>=4.66.0
+ipython>=8.20.0
+python-dotenv>=1.0.0
+jupyter>=1.0.0
+ipykernel>=6.29.0
