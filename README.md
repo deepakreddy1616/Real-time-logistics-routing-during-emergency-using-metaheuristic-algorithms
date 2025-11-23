@@ -27,14 +27,11 @@
 - [Installation & Setup](#️-installation--setup)
 - [Usage & Examples](#-usage--examples)
 - [Performance Results](#-performance-results)
-- [Research Paper](#-research-paper)
 - [Project Structure](#-project-structure)
 - [API Documentation](#-api-documentation)
 - [Testing](#-testing)
-- [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
-- [License](#-license)
-- [Contact & Support](#-contact--support)
+  
 
 ---
 
@@ -49,13 +46,6 @@ This project implements a **real-time adaptive emergency logistics routing syste
 - 🛣️ **Road closures and hazards** in affected areas
 - 📦 **Vehicle capacity constraints** and load limits
 - 🗺️ **Multiple delivery points** with priority levels
-
-### 🎓 Academic Foundation
-
-This project was developed as part of **B.Tech in Information Technology** research, focusing on applying **artificial intelligence optimization algorithms** to real-world humanitarian challenges.
-
-**📄 Research Paper:** Full research documentation available in `paper/Project-Paper.pdf`
-
 ---
 
 ## ⚠️ The Problem We Solve
@@ -465,17 +455,6 @@ vs. Greedy Baseline:
 
 ---
 
-## 📚 Research Paper
-
-This project is built on academic research in metaheuristic optimization and emergency logistics.
-
-### Paper Information
-
-- **Title**: "Real-Time Emergency Logistics Routing using Metaheuristic Algorithms"
-- **Author**: [Your Name]
-- **Institution**: [Your University], Department of Information Technology
-- **Publication Year**: 2025
-- **Document**: [`paper/Project-Paper.pdf`](paper/Project-Paper.pdf)
 
 ### Key Research Contributions
 
@@ -630,118 +609,6 @@ python tests/manual_test.py --locations "17.385,78.486" "17.406,78.477"
 python tests/performance_test.py --nodes 50 --iterations 1000
 ```
 
----
-
-## 🚀 Roadmap
-
-### Current Release: v1.0.0 ✅
-
-### Planned Releases
-
-**v1.1.0 (Q1 2026)**
-- [ ] Web dashboard for real-time visualization
-- [ ] REST API endpoints for external integration
-- [ ] Support for 5+ additional Indian cities
-- [ ] Historical disaster data analysis module
-
-**v1.2.0 (Q2 2026)**
-- [ ] Mobile app for field coordinators (React Native)
-- [ ] Multi-vehicle coordination with live tracking
-- [ ] Integration with government disaster response platforms
-- [ ] Machine learning-based traffic prediction
-
-**v2.0.0 (Late 2026)**
-- [ ] Drone delivery integration
-- [ ] Demand forecasting using deep learning
-- [ ] Collaborative routing with multiple agencies
-- [ ] International disaster zone support
-- [ ] Real-time mobile app with offline capabilities
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Help us improve disaster response technology.
-
-### How to Contribute
-
-1. **Fork the repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/emergency-logistics-routing.git
-   ```
-
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-
-3. **Make your changes** with clear, documented code
-
-4. **Commit with descriptive messages**
-   ```bash
-   git commit -m "Add: Real-time traffic prediction"
-   ```
-
-5. **Push to your branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-
-6. **Open a Pull Request** with details of your changes
-
-### Contribution Guidelines
-
-- ✅ Follow PEP 8 code style guidelines
-- ✅ Add unit tests for new features (minimum 80% coverage)
-- ✅ Update documentation and README
-- ✅ Write clear, commented code
-- ✅ Test thoroughly before submitting PR
-- ✅ Reference any related issues in PR description
-
-### Areas for Contribution
-
-- 🐛 **Bug Fixes**: Report and fix issues
-- ✨ **Features**: Add new optimization algorithms or capabilities
-- 📚 **Documentation**: Improve guides and examples
-- 🧪 **Tests**: Expand test coverage
-- 🌍 **Localization**: Add support for more cities/regions
-
-See [`docs/CONTRIBUTING.md`](docs/CONTRIBUTING.md) for detailed guidelines.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** - see [`LICENSE`](LICENSE) file for complete details.
-
-```
-MIT License
-
-Copyright (c) 2025 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files...
-```
-
----
-
-## 👤 Contact & Support
-
-### Questions or Issues?
-
-- 📧 **Email**: your.email@example.com
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- 🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
-
-### Project Links
-
-- 🔗 **Repository**: [github.com/yourusername/emergency-logistics-routing](https://github.com/yourusername/emergency-logistics-routing)
-- 📄 **Documentation**: [docs/](docs/)
-- 📝 **Issues**: [Report bugs or suggest features](https://github.com/yourusername/emergency-logistics-routing/issues)
-
----
-
 ## 🙏 Acknowledgments
 
 ### Special Thanks To
@@ -758,28 +625,6 @@ of this software and associated documentation files...
 - Solomon, M. M. (1987). "Algorithms for the Vehicle Routing and Scheduling Problems with Time Window Constraints". Operations Research, 35(2), 254-265.
 - Various disaster logistics research papers and case studies
 
----
-
-## 📊 Project Stats & Badges
-
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/emergency-logistics-routing?style=flat)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/emergency-logistics-routing?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/yourusername/emergency-logistics-routing?style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/emergency-logistics-routing?style=flat)
-![Code Size](https://img.shields.io/github/languages/code-size/yourusername/emergency-logistics-routing?style=flat)
-![License](https://img.shields.io/github/license/yourusername/emergency-logistics-routing?style=flat)
-
----
-
-<div align="center">
-
-### ⭐ Found this project useful? 
-
-**Please consider giving it a star!** It helps other developers discover this project and motivates continued development.
-
----
-
-**Made with ❤️ and Python**
 
 *Saving lives through intelligent routing. One algorithm at a time.* 🌍
 
