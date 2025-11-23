@@ -433,52 +433,6 @@ vs. Greedy Baseline:
 ├─ Vehicle Utilization: 72%
 └─ Improvement: 27% faster, 18% less distance
 ```
----
-## 📁 Project Structure
-
-```
-emergency-logistics-routing/
-│
-├── src/                              # ⭐ Main source code
-│   ├── __init__.py                   # Package initialization
-│   ├── main.py                       # Entry point for the system
-│   ├── gwo_optimizer.py              # Core GWO algorithm
-│   ├── data_loader.py                # OSM data loading
-│   ├── fitness_function.py           # Multi-objective fitness
-│   ├── weather_api.py                # OpenWeatherMap integration
-│   └── utils.py                      # Helper functions
-│
-├── tests/                            # 🧪 Test suite
-│   ├── test_gwo.py                   # GWO algorithm tests
-│   ├── test_data_loader.py           # Data loading tests
-│   ├── test_fitness.py               # Fitness function tests
-│   └── test_integration.py           # End-to-end tests
-│
-├── data/                             # 📊 Data directory (gitignored)
-│   ├── osm_network.graphml           # OpenStreetMap network
-│   └── test_scenarios.json           # Predefined test cases
-│
-├── results/                          # 📈 Output directory (gitignored)
-│   ├── optimized_routes/             # Route outputs
-│   ├── convergence_plots/            # Algorithm visualization
-│   └── performance_logs/             # Execution metrics
-│
-├── paper/                            # 📄 Research documentation
-│   └── Project-Paper.pdf             # Full research paper
-│
-├── docs/                             # 📚 Additional documentation
-│   ├── API.md                        # API documentation
-│   ├── CONTRIBUTING.md               # Contribution guidelines
-│   └── TROUBLESHOOTING.md            # FAQ and solutions
-│
-├── .env.example                      # Environment template
-├── .gitignore                        # Git ignore rules
-├── requirements.txt                  # Python dependencies
-├── LICENSE                           # MIT License
-└── README.md                         # This file
-```
-
----
 
 ## 📖 API Documentation
 
