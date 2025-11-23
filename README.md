@@ -30,10 +30,8 @@
 - [Project Structure](#-project-structure)
 - [API Documentation](#-api-documentation)
 - [Testing](#-testing)
-- [Contributing](#-contributing)
-  
-
----
+- [Acknowledgements](#-acknowledgements)
+  ---
 
 ## 📌 Project Overview
 
