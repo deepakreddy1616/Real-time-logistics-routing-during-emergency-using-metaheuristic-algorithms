@@ -19,8 +19,8 @@
 ## 📋 Quick Navigation
 
 - [Project Overview](#-project-overview)
-- [The Problem We Solve](#-the-problem-we-solve)
-- [Our Intelligent Solution](#-our-Intelligent-solution)
+- [The Problem](#-the-problem)
+- [Our Solution](#-our-Intelligent-solution)
 - [Key Features](#-key-features)
 - [Technology Stack](#-technology-stack)
 - [System Architecture](#️-system-architecture)
@@ -46,7 +46,7 @@ This project implements a **real-time adaptive emergency logistics routing syste
 - 🗺️ **Multiple delivery points** with priority levels
 ---
 
-## ⚠️ The Problem We Solve
+## ⚠️ The Problem 
 
 ### Why Traditional Logistics Fails in Disasters
 
@@ -65,7 +65,7 @@ During emergencies, conventional routing systems fail because:
 
 ---
 
-## ✨ Our Intelligent Solution
+## ✨ Our  Solution
 
 Our system addresses these challenges with **AI-powered dynamic optimization**:
 
@@ -450,33 +450,7 @@ vs. Greedy Baseline:
 ├─ Vehicle Utilization: 72%
 └─ Improvement: 27% faster, 18% less distance
 ```
-
 ---
-
-
-### Key Research Contributions
-
-1. Novel application of Grey Wolf Optimization to dynamic emergency routing
-2. Framework for integrating real-time weather into route optimization
-3. Multi-objective fitness function balancing time, safety, and capacity
-4. Comprehensive performance benchmarking against traditional algorithms
-5. Scalability analysis for large-scale disaster scenarios
-6. Implementation on actual OpenStreetMap networks
-
-### Citation Format
-
-```bibtex
-@article{yourname2025emergency,
-  title={Real-Time Emergency Logistics Routing using Metaheuristic Algorithms},
-  author={Your Name},
-  journal={[Journal/Conference Name]},
-  year={2025},
-  institution={[Your University]}
-}
-```
-
----
-
 ## 📁 Project Structure
 
 ```
