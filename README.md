@@ -20,7 +20,7 @@
 
 - [Project Overview](#-project-overview)
 - [The Problem We Solve](#-the-problem-we-solve)
-- [Our Solution](#-our-solution)
+- [Our Intelligent Solution](#-our-Intelligent-solution)
 - [Key Features](#-key-features)
 - [Technology Stack](#-technology-stack)
 - [System Architecture](#️-system-architecture)
@@ -30,7 +30,7 @@
 - [Project Structure](#-project-structure)
 - [API Documentation](#-api-documentation)
 - [Testing](#-testing)
-- [Acknowledgements](#-acknowledgements)
+
   ---
 
 ## 📌 Project Overview
