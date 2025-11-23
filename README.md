@@ -1,4 +1,4 @@
-# 🚨 Real-Time Emergency Logistics Routing System
+# 🚨 Real-Time Logistics Routing During Emergency using Metaheuristic Algorithms
 
 <div align="center">
 
@@ -582,8 +582,6 @@ python tests/performance_test.py --nodes 50 --iterations 1000
 
 
 *Saving lives through intelligent routing. One algorithm at a time.* 🌍
-
-*For questions or support, reach out anytime!*
 
 </div>
 
