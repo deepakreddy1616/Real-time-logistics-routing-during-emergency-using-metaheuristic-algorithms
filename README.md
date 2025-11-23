@@ -10,7 +10,7 @@
 
 **An AI-powered disaster relief optimization system using Grey Wolf Optimization (GWO) metaheuristic algorithm**
 
-[🎯 Features](#-key-features) • [📊 Performance](#-performance-results) • [⚙️ Installation](#️-installation--setup) • [💻 Usage](#-usage) • [📚 Research](#-research-paper) • [🤝 Contributing](#-contributing)
+[🎯 Features](#-key-features) • [📊 Performance](#-performance-results) • [⚙️ Installation](#️-installation--setup) 
 
 </div>
 
