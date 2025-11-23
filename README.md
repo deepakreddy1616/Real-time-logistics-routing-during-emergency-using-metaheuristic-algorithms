@@ -14,23 +14,6 @@
 
 </div>
 
----
-
-## 📋 Quick Navigation
-
-- [Project Overview](#-project-overview)
-- [The Problem](#-the-problem)
-- [Our Solution](#-our-Intelligent-solution)
-- [Key Features](#-key-features)
-- [Technology Stack](#-technology-stack)
-- [System Architecture](#️-system-architecture)
-- [Installation & Setup](#️-installation--setup)
-- [Usage & Examples](#-usage--examples)
-- [Performance Results](#-performance-results)
-- [Project Structure](#-project-structure)
-- [API Documentation](#-api-documentation)
-- [Testing](#-testing)
-
   ---
 
 ## 📌 Project Overview
